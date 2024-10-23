@@ -274,7 +274,7 @@ void solve(){
     string s;
     cin>>n;
     cout<<n;
-    nl;
+    
     
 }
 

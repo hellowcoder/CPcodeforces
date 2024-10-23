@@ -10,6 +10,7 @@ for(long long int i=0;i<p1;i++){
 }
 for(long long int i=0;i<p2;i++){
     cin>>p2_a[i].first>>p2_a[i].second;
+    
 }
 sort(p2_a.begin(),p2_a.end());
 for(long long int i=0;i<p1;i++){
